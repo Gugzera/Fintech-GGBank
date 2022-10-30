@@ -1,0 +1,68 @@
+.corpo_parceiros{
+    width: 98.9vw;
+    height: 95vh;
+    padding-top: 5vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    background: linear-gradient(225deg, rgba(59,11,11,1) 81%, rgba(110,37,37,1) 100%);
+    box-shadow: inset 0px -33px 58px 0px rgb(31, 2, 2);
+    margin: 0;
+    color: aliceblue;
+}
+h3{
+    margin: 7vh 0;
+}
+
+.parceirosAtuais{
+    width: 40vw;
+    margin: auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.parceiros_img{
+    width: auto;
+    margin: auto;
+}
+.parceiros_img img{
+    width: 80%;
+    cursor: pointer;
+}
+.parceiros_logos{
+    width: 85vw;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.logosCima{
+    width: 85vw;
+    /* margin: auto; */
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.logosBaixo{
+    width: 85vw;
+    /* margin: auto; */
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.parceirosLogosMarcas{
+    width: auto;
+    height: auto;
+    margin: 2vw;    
+    display: flex;
+    align-items: center;
+}
+.parceirosLogosMarcas img{
+    width: 80%;
+    cursor: pointer;
+}
+.Steam{
+    width: 130%;
+}

@@ -1,0 +1,19 @@
+
+.corpo_home{
+    color:rgb(16, 63, 103);
+   /* text-align: center;*/
+    width: 98.9vw;
+    margin-top: 15vh;
+    height:85vh;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    background-image: url(../img/fundo-home.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* align-items: center; */
+    box-shadow: inset 0px -29px 42px 0px rgba(36,2,2,1);
+
+    
+}
+
