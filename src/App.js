@@ -5,9 +5,6 @@ import Dados from './components/Dados';
 import Cartoes from './components/Cartoes';  
 import Parcerias from './components/Parcerias';  
 import Rodape from './components/Rodape';  
-import React from 'react';
-import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
-
 function App() {
   return (
 
