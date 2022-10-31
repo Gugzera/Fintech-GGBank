@@ -30,7 +30,7 @@ function Rodape(){
             </div>  
         </section>
             <div className={styles.contato}>
-                <h2>Contato</h2>
+                <h3>Contato</h3>
                 <a href="https://www.linkedin.com/in/gustavo-gomes-da-silva/" target= "_blank" rel="noreferrer noopener">
                     <img src={linkedin} alt="icone linkedin" />
                 </a>

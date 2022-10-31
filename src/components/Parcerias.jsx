@@ -26,7 +26,7 @@ function Parcerias(){
                     <img onClick={() => openInNewTab('#')} src={logoPedro} alt="logo HA" />
                 </div>
                 <div className={styles.parceiros_img}>
-                    <img onClick={() => openInNewTab('#')} src={logoLeandro} alt="logo HA" />
+                    <img onClick={() => openInNewTab('https://lcbank.netlify.app/')} src={logoLeandro} alt="logo HA" />
                 </div>
                 
             </section>

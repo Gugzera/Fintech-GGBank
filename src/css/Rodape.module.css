@@ -26,8 +26,8 @@
     margin: 0 0  1vh 10%;
 }
 
-h2{
-    margin: 0;
+.containerRodape h3{
+    margin-right: 2vw;
     color: #d1d1d1;
     margin-bottom: 1vh;
     text-align: end;
@@ -37,6 +37,7 @@ h2{
 }
 .contato img{
     margin-left: 9vw;
+    width: 3vw;
 }
 
 .container_logo {

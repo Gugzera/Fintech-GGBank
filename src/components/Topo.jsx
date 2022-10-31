@@ -30,13 +30,14 @@ function Topo(){
 
         <nav className={styles.navLinks}>
             <ul>
-                <li>Inicio</li>
+                <a href="https://fintechggbank.vercel.app/"><li>Inicio</li></a>
                 <li>Sobre o Banco</li>
                 <li> Parceiros</li>
                 <li>Cartões</li>
                 <li>Contato</li>
             </ul>
         </nav>
+        <button>Entrar</button>
     </div>
     )
 }
